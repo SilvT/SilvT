@@ -5,10 +5,10 @@
 
 I solve design problems systematically and occasionally build Figma plugins at 2am because "manually updating 47 components" isn't a life choice I'm willing to make.
 
-UI DESIGN ┄`Interface design, prototyping, user flows, responsive design, accessibility`  
-**Design Systems** ┄ `Component libraries, token architecture, documentation, governance`  
-**Front-end** ┄ `HTML/CSS/SASS, JavaScript (for tooling & automation)`  
-**Tools & Automation** ┄ `Figma, Token Studio, Git/GitHub, CI/CD pipelines, custom plugins`
+`UI DESIGN` ┄Interface design, prototyping, user flows, responsive design, accessibility  
+`Design Systems` ┄ Component libraries, token architecture, documentation, governance  
+`Front-end` ┄ HTML/CSS/SASS, JavaScript (for tooling & automation)  
+`Tools & Automation` ┄ Figma, Token Studio, Git/GitHub, CI/CD pipelines, custom plugins
 
 
 ---
