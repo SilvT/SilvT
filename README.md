@@ -13,30 +13,11 @@ I solve design problems systematically and occasionally build Figma plugins at 2
 
 ## 🛠️ Skills & Tools
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![FigJam](https://img.shields.io/badge/FigJam-F24E1E?style=flat&logo=figma&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-00B4D8?style=flat)
-![Accessibility](https://img.shields.io/badge/Accessibility-0A0A0A?style=flat)
-![UI Design](https://img.shields.io/badge/UI_Design-7209B7?style=flat)
-![Atomic Design](https://img.shields.io/badge/Atomic_Design-4CC9F0?style=flat)
+![Figma](https://img.shields.io/badge/Figma-C77DFF?style=flat&logo=figma&logoColor=white) ![Design Systems](https://img.shields.io/badge/Design_Systems-9D4EDD?style=flat) ![Atomic Design](https://img.shields.io/badge/Atomic_Design-7209B7?style=flat) ![Design Tokens](https://img.shields.io/badge/Design_Tokens-5B21B6?style=flat)
 
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-![Design Systems](https://img.shields.io/badge/Design_Systems-6B46C1?style=flat)
-![Design Tokens](https://img.shields.io/badge/Design_Tokens-00C4CC?style=flat)
-![Token Studio](https://img.shields.io/badge/Token_Studio-4A90E2?style=flat)
-![Style Dictionary](https://img.shields.io/badge/Style_Dictionary-F04F43?style=flat)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-
-
-![Figma Plugins](https://img.shields.io/badge/Figma_Plugins-F24E1E?style=flat&logo=figma&logoColor=white)
-![Design Automation](https://img.shields.io/badge/Design_Automation-00C4AA?style=flat)
-![Token Pipelines](https://img.shields.io/badge/Token_Pipelines-6B46C1?style=flat)
+![GitHub Actions](https://img.shields.io/badge/Actions-6B7280?style=flat&logo=githubactions&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-374151?style=flat&logo=vercel&logoColor=white) ![Token Studio](https://img.shields.io/badge/Token_Studio-1F2937?style=flat)
 
 
 **UI Design:** Interface design, prototyping, user flows, responsive design, accessibility  
