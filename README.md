@@ -1,9 +1,9 @@
-# Hi there 👋
+# Hello world. Silvia here 🌿
 
 ## Product + UI Designer | Design Systems Enthusiast | Variables Geek
 
 
-I solve design problems systematically and occasionally build Figma plugins at 2am because "manually updating 47 components" isn't a life choice I'm willing to make.
+I solve design problems systematically and occasionally build Figma plugins at 2am because <i>"manually updating 47 components"</i> isn't a life choice I'm willing to make.
 
 ````
 UI Design 
@@ -19,21 +19,22 @@ Tools & Automation
     ∟  Figma, Token Studio, Git/GitHub, CI/CD pipelines, custom plugins
 ````
 
-
-
 ---
 
 ## 🛠️ Skills & Tools
 
-![Figma](https://img.shields.io/badge/Figma-C77DFF?style=flat&logo=figma&logoColor=white) ![Design Systems](https://img.shields.io/badge/Design_Systems-9D4EDD?style=flat) ![Atomic Design](https://img.shields.io/badge/Atomic_Design-7209B7?style=flat) ![Design Tokens](https://img.shields.io/badge/Design_Tokens-5B21B6?style=flat)
+
+
+![Figma](https://img.shields.io/badge/Figma-5B21B6?style=flat&logo=figma&logoColor=white) ![Design Systems](https://img.shields.io/badge/Design_Systems-7209B7?style=flat) ![Atomic Design](https://img.shields.io/badge/Atomic_Design-9D4EDD?style=flat) ![Design Tokens](https://img.shields.io/badge/Design_Tokens-C77DFF?style=flat)
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-![GitHub Actions](https://img.shields.io/badge/Actions-6B7280?style=flat&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-374151?style=flat&logo=vercel&logoColor=white) ![Token Studio](https://img.shields.io/badge/Token_Studio-1F2937?style=flat)
+![GitHub Actions](https://img.shields.io/badge/Actions-6B7280?style=flat&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-374151?style=flat&logo=vercel&logoColor=white) ![Token Studio](https://img.shields.io/badge/Token_Studio-3c4658?style=flat)
+
 
 ---
 
-# 🎨 What I Do
+# ✍🏼 What I Do
 
 I design user interfaces and build design systems infrastructure that makes everyone's life easier. That means:  
 
@@ -57,12 +58,13 @@ I design user interfaces and build design systems infrastructure that makes ever
 ```
 CONTEXT
 
-I did this as the only designer passionate about systems in a chaotic engineering startup environment. Now I want to explore other environments and learn from different teams
+I did this as the only designer passionate about systems in a chaotic engineering startup environment.
+Now I want to explore other environments and learn from different teams
 ```
 
 ---
 
-# 💭 What I'm Good At
+# 🫡 What I'm Good At
 
 - Spotting patterns and building systems to eliminate repetitive work
 - Building Figma-to-Git pipelines that work in production
@@ -72,15 +74,15 @@ I did this as the only designer passionate about systems in a chaotic engineerin
 
 ---
 
-# 🤔 Currently Figuring Out
+#  Currently Figuring Out
 
-> How mature design systems work at scale (I've only built one from scratch)
+> 🏗️ How mature design systems work at scale (I've only built one from scratch)
 
-> Better ways to balance design craft with systematic thinking
+> ⚖️ Better ways to balance design craft with systematic thinking 
 
-> Do <i>"Design Technologist"</i> job posts even exist?
+> 🔎 Do <i>"Design Technologist"</i> job posts even exist?
 
->Whether job boards with fewer than 1k pain points actually exist
+> 💀 Whether job boards with fewer than 1k pain points actually exist
 
 ---
 
