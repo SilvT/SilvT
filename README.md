@@ -17,7 +17,7 @@ I solve design problems systematically and occasionally build Figma plugins at 2
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-![GitHub Actions](https://img.shields.io/badge/Actions-6B7280?style=flat&logo=githubactions&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-374151?style=flat&logo=vercel&logoColor=white) ![Token Studio](https://img.shields.io/badge/Token_Studio-1F2937?style=flat)
+![GitHub Actions](https://img.shields.io/badge/Actions-6B7280?style=flat&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-374151?style=flat&logo=vercel&logoColor=white) ![Token Studio](https://img.shields.io/badge/Token_Studio-1F2937?style=flat)
 
 
 **UI Design:** Interface design, prototyping, user flows, responsive design, accessibility  
