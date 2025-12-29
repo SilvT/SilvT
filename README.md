@@ -5,10 +5,10 @@
 
 I solve design problems systematically and occasionally build Figma plugins at 2am because "manually updating 47 components" isn't a life choice I'm willing to make.
 
-<span style="color: #FAFAFA"> **UI Design**</span> <span style="color: #aaaaaacc"> ➞ Interface design, prototyping, user flows, responsive design, accessibility</span>  
-<span style="color: #FAFAFA"> **Design Systems** </span><span style="color: #aaaaaacc">  ➞ Component libraries, token architecture, documentation, governance</span>  
-<span style="color: #FAFAFA"> **Front-end**</span><span style="color: #aaaaaacc">  ➞ HTML/CSS/SASS, JavaScript (for tooling & automation)</span>  
-<span style="color: #FAFAFA"> **Tools & Automation**</span><span style="color: #aaaaaacc">  ➞ Figma, Token Studio, Git/GitHub, CI/CD pipelines, custom plugins</span>
+**UI Design** ┄ Interface design, prototyping, user flows, responsive design, accessibility  
+**Design Systems** ┄ Component libraries, token architecture, documentation, governance  
+**Front-end** ┄ HTML/CSS/SASS, JavaScript (for tooling & automation)  
+**Tools & Automation** ┄ Figma, Token Studio, Git/GitHub, CI/CD pipelines, custom plugins
 
 
 ---
@@ -40,7 +40,7 @@ I design user interfaces and build design systems infrastructure that makes ever
 📚 Design Bites workshop series to help teams understand why consistency matters  
 ⚡ Automated workflows that reduced design-to-dev handoff friction by 40%
 
-<span style="color: #FAFAFA"> **Context:**</span> ➞ II did this as the only designer passionate about systems in a chaotic engineering startup environment. Now I want to explore other environments and learn from different teams.
+**Context:** —— I did this as the only designer passionate about systems in a chaotic engineering startup environment. Now I want to explore other environments and learn from different teams.
 
 ---
 
@@ -65,9 +65,9 @@ I design user interfaces and build design systems infrastructure that makes ever
 
 ## 📫 Let's Connect
 
-<span style="color: #FAFAFA"> **Portfolio:**</span> ➞ I[silviatravieso.com](https://www.silviatravieso.com)  
-<span style="color: #FAFAFA"> **LinkedIn:**</span> ➞ I[linkedin.com/in/silvia-travieso-gonzalez](https://www.linkedin.com/in/silvia-travieso-gonzalez)  
-<span style="color: #FAFAFA"> **Email:**</span> ➞ Isilvia.travieso.g@gmail.com
+**Portfolio:** —— [silviatravieso.com](https://www.silviatravieso.com)
+**LinkedIn:** —— [linkedin.com/in/silvia-travieso-gonzalez](https://www.linkedin.com/in/silvia-travieso-gonzalez)
+**Email:** —— silvia.travieso.g@gmail.com
 
 ---
 _Fun fact: I spent three weeks building a token distribution system instead of manually updating tokens. There's always someone who says "I'm sure there's a plugin for that." Well TOM, if there was, I couldn't find it. Lucky for you, now there is!_
