@@ -5,10 +5,20 @@
 
 I solve design problems systematically and occasionally build Figma plugins at 2am because "manually updating 47 components" isn't a life choice I'm willing to make.
 
-`UI DESIGN` ┄Interface design, prototyping, user flows, responsive design, accessibility  
-`Design Systems` ┄ Component libraries, token architecture, documentation, governance  
-`Front-end` ┄ HTML/CSS/SASS, JavaScript (for tooling & automation)  
-`Tools & Automation` ┄ Figma, Token Studio, Git/GitHub, CI/CD pipelines, custom plugins
+````
+UI Design 
+   ∟  Interface design, prototyping, user flows, responsive design, accessibility  
+
+Design Systems
+    ∟  Component libraries, token architecture, documentation, governance  
+
+Front-end
+    ∟ HTML/CSS/SASS, JavaScript (for tooling & automation)  
+
+Tools & Automation
+    ∟  Figma, Token Studio, Git/GitHub, CI/CD pipelines, custom plugins
+````
+
 
 
 ---
@@ -23,28 +33,36 @@ I solve design problems systematically and occasionally build Figma plugins at 2
 
 ---
 
-## 🎨 What I Do
+# 🎨 What I Do
 
-I design user interfaces and build design systems infrastructure that makes everyone's life easier. That means:
-- Creating and maintaining component libraries and design tokens
-- Building tools and pipelines when existing solutions don't quite fit
-- Bridging the gap between design and development
-- Documenting systems so people can actually use them
-- Automating repetitive tasks because life's too short to Ctrl+C Ctrl+V tokens
+I design user interfaces and build design systems infrastructure that makes everyone's life easier. That means:  
 
-### What I've Built
+┄ Creating and maintaining component libraries and design tokens  
+┄ Building tools and pipelines when existing solutions don't quite fit  
+┄ Bridging the gap between design and development  
+┄ Documenting systems so people can actually use them  
+┄ Automating repetitive tasks because life's too short to Ctrl+C Ctrl+V tokens  
 
-📦 Design system for greenfield product (from scratch, while also being the UX, the UI and the Product Team - because someone had to)  
-🎨 Token architecture with automated distribution pipeline (Figma → GitHub → Production)  
-🔧 Custom Figma plugins for design operations when off-the-shelf tools weren't enough  
-📚 Design Bites workshop series to help teams understand why consistency matters  
-⚡ Automated workflows that reduced design-to-dev handoff friction by 40%
 
-**Context:** —— I did this as the only designer passionate about systems in a chaotic engineering startup environment. Now I want to explore other environments and learn from different teams.
+> ### What I've Built
+
+- 📦 Design system for greenfield product (from scratch, while also being the UX, the UI and the Product Team - because someone had to)
+- 🎨 Token architecture with automated distribution pipeline (Figma → GitHub → Production)  
+- 🔧 Custom Figma plugins for design operations when off-the-shelf tools weren't enough  
+- 📚 Design Bites workshop series to help teams understand why consistency matters  
+- ⚡ Automated workflows that reduced design-to-dev handoff friction by 40%
+
+<br>
+
+```
+CONTEXT
+
+I did this as the only designer passionate about systems in a chaotic engineering startup environment. Now I want to explore other environments and learn from different teams
+```
 
 ---
 
-## 💭 What I'm Good At
+# 💭 What I'm Good At
 
 - Spotting patterns and building systems to eliminate repetitive work
 - Building Figma-to-Git pipelines that work in production
@@ -54,20 +72,32 @@ I design user interfaces and build design systems infrastructure that makes ever
 
 ---
 
-## 🤔 Currently Figuring Out
+# 🤔 Currently Figuring Out
 
-- How mature design systems work at scale (I've only built one from scratch)
-- Better ways to balance design craft with systematic thinking
-- Do "Design Technologist" job posts even exist?
-- Whether job boards with fewer than 1k pain points actually exist
+> How mature design systems work at scale (I've only built one from scratch)
+
+> Better ways to balance design craft with systematic thinking
+
+> Do <i>"Design Technologist"</i> job posts even exist?
+
+>Whether job boards with fewer than 1k pain points actually exist
 
 ---
 
 ## 📫 Let's Connect
 
-**Portfolio:** —— [silviatravieso.com](https://www.silviatravieso.com)
-**LinkedIn:** —— [linkedin.com/in/silvia-travieso-gonzalez](https://www.linkedin.com/in/silvia-travieso-gonzalez)
-**Email:** —— silvia.travieso.g@gmail.com
+**Portfolio:** —— [silviatravieso.com](https://www.silviatravieso.com)  
+**LinkedIn:** —— [linkedin.com/in/silvia-travieso-gonzalez](https://www.linkedin.com/in/silvia-travieso-gonzalez)  
+**Email:** —— silvia.travieso.g@gmail.com  
 
 ---
-_Fun fact: I spent three weeks building a token distribution system instead of manually updating tokens. There's always someone who says "I'm sure there's a plugin for that." Well TOM, if there was, I couldn't find it. Lucky for you, now there is!_
+**Fun fact:**  
+_I spent three weeks building a token distribution system instead of manually updating tokens. 
+There's always someone who says_
+```
+---"I'm sure there's a plugin for that." 
+```
+...
+```
+--- Well TOM, if there was, I couldn't find it. Lucky for you, now there is!
+```
