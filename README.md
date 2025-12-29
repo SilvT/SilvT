@@ -5,9 +5,10 @@
 
 I solve design problems systematically and occasionally build Figma plugins at 2am because "manually updating 47 components" isn't a life choice I'm willing to make.
 
-**Currently:** Open to Senior UI Designer, Design Technologist, and Design Systems roles  
-**Last seen in:** UI & Product Designer, Design Systems at Senapt LTD (startup, 7+ products, maximum chaos)  
-**Speciality:** Making designs work across languages, even JavaFX (yes, really)
+<span style="color: #FAFAFA"> **UI Design**</span> ➞ Interface design, prototyping, user flows, responsive design, accessibility  
+<span style="color: #FAFAFA"> **Design Systems** </span> ➞ Component libraries, token architecture, documentation, governance
+<span style="color: #FAFAFA"> **Front-end**</span> ➞ HTML/CSS/SASS, JavaScript (for tooling & automation)  
+<span style="color: #FAFAFA"> **Tools & Automation**</span> ➞ Figma, Token Studio, Git/GitHub, CI/CD pipelines, custom plugins
 
 ---
 
@@ -18,12 +19,6 @@ I solve design problems systematically and occasionally build Figma plugins at 2
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ![GitHub Actions](https://img.shields.io/badge/Actions-6B7280?style=flat&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-374151?style=flat&logo=vercel&logoColor=white) ![Token Studio](https://img.shields.io/badge/Token_Studio-1F2937?style=flat)
-
-
-**UI Design:** Interface design, prototyping, user flows, responsive design, accessibility  
-**Design Systems:** Component libraries, token architecture, documentation, governance  
-**Front-end:** HTML/CSS/SASS, JavaScript basics  
-**Tools & Automation:** Figma, Token Studio, Git/GitHub, CI/CD pipelines, custom plugins
 
 ---
 
@@ -44,7 +39,7 @@ I design user interfaces and build design systems infrastructure that makes ever
 📚 Design Bites workshop series to help teams understand why consistency matters  
 ⚡ Automated workflows that reduced design-to-dev handoff friction by 40%
 
-**Context:** I did this as the only designer passionate about systems in a chaotic engineering startup environment. Now I want to explore other environments and learn from different teams.
+<span style="color: #FAFAFA"> **Context:**</span> ➞ II did this as the only designer passionate about systems in a chaotic engineering startup environment. Now I want to explore other environments and learn from different teams.
 
 ---
 
@@ -69,9 +64,9 @@ I design user interfaces and build design systems infrastructure that makes ever
 
 ## 📫 Let's Connect
 
-**Portfolio:** [silviatravieso.com](https://www.silviatravieso.com)  
-**LinkedIn:** [linkedin.com/in/silvia-travieso-gonzalez](https://www.linkedin.com/in/silvia-travieso-gonzalez)  
-**Email:** silvia.travieso.g@gmail.com
+<span style="color: #FAFAFA"> **Portfolio:**</span> ➞ I[silviatravieso.com](https://www.silviatravieso.com)  
+<span style="color: #FAFAFA"> **LinkedIn:**</span> ➞ I[linkedin.com/in/silvia-travieso-gonzalez](https://www.linkedin.com/in/silvia-travieso-gonzalez)  
+<span style="color: #FAFAFA"> **Email:**</span> ➞ Isilvia.travieso.g@gmail.com
 
 ---
 _Fun fact: I spent three weeks building a token distribution system instead of manually updating tokens. There's always someone who says "I'm sure there's a plugin for that." Well TOM, if there was, I couldn't find it. Lucky for you, now there is!_
