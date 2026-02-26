@@ -3,7 +3,7 @@
 ## Product + UI Designer | Design Systems Enthusiast | Variables Geek
 
 
-I solve design problems systematically and occasionally build Figma plugins at 2am because <i>"manually updating 47 components"</i> isn't a life choice I'm willing to make.
+I solve design problems systematically and occasionally build Figma plugins at 2am because <i>"manually updating 47 tokens"</i> isn't a life choice I'm willing to make.
 
 ````
 UI Design 
