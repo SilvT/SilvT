@@ -13,7 +13,7 @@ Design Systems
     ∟  Component libraries, token architecture, documentation, governance  
 
 Front-end
-    ∟ HTML/CSS/SASS, JavaScript (for tooling & automation)  
+    ∟ HTML/CSS/SASS, JavaScript 
 
 Tools & Automation
     ∟  Figma, Token Studio, Git/GitHub, CI/CD pipelines, custom plugins
