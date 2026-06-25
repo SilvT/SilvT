@@ -1,6 +1,6 @@
 # Hello world. Silvia here 🌿
 
-## Product + UI Designer | Design Systems Enthusiast | Variables Geek
+## Product Designer | Design Systems | Variables Geek
 
 
 I am all about solving design problems systematically and occasionally building Figma plugins at 2am because <i>"manually updating 47 tokens"</i> isn't a life choice I'm willing to make.
